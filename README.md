@@ -1,7 +1,9 @@
-# title(){return this.options.title||this.options.name}
+# Dashboard App
 
 ## About
 Responsive dashboard app built with css grid.
+
+<hr>
 
 Quick start:
 
